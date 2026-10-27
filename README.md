@@ -1,1 +1,2 @@
-# paroquia-sangue-de-cristo
+# Projeto da Paroquia Sangue de Cristo
+# Universidade Descomplica
